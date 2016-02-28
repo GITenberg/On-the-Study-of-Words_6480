@@ -1,0 +1,26 @@
+_repo: On-the-Study-of-Words_6480
+creator:
+  author:
+    agent_name: Trench, Richard Chenevix
+    alias: Chenevix, Richard
+    birthdate: 1807
+    deathdate: 1886
+    gutenberg_agent_id: '2062'
+    url: http://www.gutenberg.org/2009/agents/2062
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Chenevix_Trench
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Etymology'
+- !lcsh 'English language -- Semantics'
+title: On the Study of Words
+url: http://www.gutenberg.org/ebooks/6480
